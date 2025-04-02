@@ -88,7 +88,6 @@ session_start();
     </div>
 
     <div class="container">
-        <!-- تحديث ملف العملاء -->
         <a href="upload_clients.php" class="card">
             <div class="icon">
                 <i class="fas fa-users-cog"></i>
