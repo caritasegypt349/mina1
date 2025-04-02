@@ -86,7 +86,7 @@ session_start();
         <h1>نظام iScore Check</h1>
         <p>إدارة ملفات العملاء ونتائج iScore</p>
     </div>
-
+<!-- تحديث ملف العملاء -->
     <div class="container">
         <a href="upload_clients.php" class="card">
             <div class="icon">
